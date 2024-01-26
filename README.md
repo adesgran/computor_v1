@@ -6,7 +6,7 @@ Computor_V1 is a simple polynomial equation solver.
 ## Usage
 1. **Clone the repository:**
     ```bash
-    git clone [<repository_url>](https://github.com/adesgran/computor_v1.git)
+    git clone https://github.com/adesgran/computor_v1.git
     cd computor_v1
     ```
 
