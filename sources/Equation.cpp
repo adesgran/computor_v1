@@ -119,7 +119,7 @@ void Equation::solve(void) {
   coeff_type a = 0;
   if (this->content.size() == 3)
     a = this->content[2];
-  std::cout << "Equation is of type c + b * X + a * X^2 with : " << std::endl;
+  std::cout << "Equation is of type aX^2 + bX + c with : " << std::endl;
   std::cout << "- a = " << a << std::endl;
   std::cout << "- b = " << b << std::endl;
   std::cout << "- c = " << c << std::endl;
